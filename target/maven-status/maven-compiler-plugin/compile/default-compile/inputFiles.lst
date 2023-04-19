@@ -1,0 +1,7 @@
+/home/ec2-user/devops-demo/devops-demo/src/main/java/com/in28minutes/springboot/model/Student.java
+/home/ec2-user/devops-demo/devops-demo/src/main/java/com/in28minutes/springboot/StudentServicesApplication.java
+/home/ec2-user/devops-demo/devops-demo/src/main/java/com/in28minutes/springboot/service/StudentService.java
+/home/ec2-user/devops-demo/devops-demo/src/main/java/com/in28minutes/springboot/controller/StudentController.java
+/home/ec2-user/devops-demo/devops-demo/src/main/java/com/in28minutes/springboot/controller/LoginController.java
+/home/ec2-user/devops-demo/devops-demo/src/main/java/com/in28minutes/springboot/security/SecurityConfig.java
+/home/ec2-user/devops-demo/devops-demo/src/main/java/com/in28minutes/springboot/model/Course.java
